@@ -5,4 +5,5 @@ package template;
  * @author Author
  */
 public enum TypeOfAgent {
+  Father　//父親
 }
