@@ -5,5 +5,4 @@ package template;
  * @author Author
  */
 public enum TypeOfRole {
-  Father //父親ロール
 }
