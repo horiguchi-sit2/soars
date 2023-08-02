@@ -5,6 +5,4 @@ package template;
  * @author Author
  */
 public enum TypeOfSpot {
-  Home, //自宅
-  Company //会社
 }
